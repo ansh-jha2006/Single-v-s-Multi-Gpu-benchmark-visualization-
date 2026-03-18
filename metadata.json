@@ -1,0 +1,5 @@
+{
+  "name": "Compute Velocity: GPU Benchmark",
+  "description": "A high-performance data visualization demo comparing Single vs. Multi-GPU processing performance with a dark tech aesthetic.",
+  "requestFramePermissions": []
+}
